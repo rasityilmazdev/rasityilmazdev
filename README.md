@@ -2,6 +2,7 @@
 
 This area is gonna be bigger, soon!
 
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!--
 **rasityilmazdev/rasityilmazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
